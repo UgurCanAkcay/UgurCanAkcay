@@ -1,5 +1,5 @@
 ### Hi there 👋 
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=UgurCanAkcay&show_icons=true&theme=dracula">
 ##
 - 🔭 I’m currently working on NFT project.
 - 🌱 I’m currently learning: HTML, CSS, Javascript for Front-end/ PHP for Back-end/ React Native, Unity, Unreal Engine.
