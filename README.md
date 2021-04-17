@@ -1,5 +1,4 @@
 ### Hi there 👋 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=UgurCanAkcay&show_icons=true&theme=dracula">
 
 ##
 - 🔭 I’m currently working on NFT project.
