@@ -21,7 +21,7 @@
 <a href="https://www.unrealengine.com/en-US/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unreal_engine_logo_icon_144771.png" alt="Unreal Engine" width="40" height="40"/> </a> 
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=UgurCanAkcay&show_icons=true&locale=en&layout=compact" alt="UgurCanAkcay" />&nbsp;
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=UgurCanAkcay&show_icons=true&locale=en&layout=compact" alt="UgurCanAkcay" />&nbsp;
 
 
 ## Connect with me
