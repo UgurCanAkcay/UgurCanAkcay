@@ -17,9 +17,11 @@
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=148&color=currentColor" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://pixologic.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://pixologic.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unreal_engine_logo_icon_144771.png" alt="unity" width="40" height="40"/> </a> 
+<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> </a> 
+<a href="https://www.unrealengine.com/en-US/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unreal_engine_logo_icon_144771.png" alt="Unreal Engine" width="40" height="40"/> </a> 
 </p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=UgurCanAkcay&show_icons=true&locale=en&layout=compact" alt="UgurCanAkcay" />&nbsp;
 
 
 ## Connect with me
