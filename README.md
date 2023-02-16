@@ -5,7 +5,7 @@
 
 🎮 I am a developer who wants to create new things and learn something new.
 
-###  Web Developer | Game Developer&Designer | MetaverseTech&VR 
+###  Web Developer | Game Developer&Designer | MetaverseTech
 
 
 
